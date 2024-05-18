@@ -6,3 +6,5 @@
         display: flex;
     }
 }
+
+/* Ensure this is CSS this will allow the screen to adjust in size when minimized */
